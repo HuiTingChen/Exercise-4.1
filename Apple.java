@@ -4,7 +4,7 @@ public class Apple extends Fruit {
 	private int quantity;
 	private double price;
 	private String colour;
-	public String taste;
+	private String taste;
 	
 	  public Apple(String name, int q, double p, String clr, String t) {
 		super(name);
