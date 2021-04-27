@@ -5,7 +5,6 @@ public class GreenApple extends Apple  {
 	
 	 public GreenApple(String name, int q, double p, String clr, String t, boolean pie) {
 		super(name,q,p,clr,t);
-		this.taste = t;
 		this.pie = pie;
 		
 	 }
